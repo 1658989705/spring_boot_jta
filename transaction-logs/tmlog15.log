@@ -1,0 +1,2 @@
+{"id":"10.38.12.195.tm155627144313200001","wasCommitted":true,"participants":[{"uri":"10.38.12.195.tm1","state":"COMMITTING","expires":1556271458311,"resourceName":"carDataSource"},{"uri":"10.38.12.195.tm2","state":"COMMITTING","expires":1556271458311,"resourceName":"productDatasource"}]}
+{"id":"10.38.12.195.tm155627144313200001","wasCommitted":true,"participants":[{"uri":"10.38.12.195.tm1","state":"TERMINATED","expires":1556271458555,"resourceName":"carDataSource"},{"uri":"10.38.12.195.tm2","state":"TERMINATED","expires":1556271458555,"resourceName":"productDatasource"}]}
